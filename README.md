@@ -1,4 +1,4 @@
-# cgWRBWfr
+# Wildly Expensive DUCKS
 
 Quick start:
 
