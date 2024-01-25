@@ -6,3 +6,9 @@ Este repositório contém um projeto de recapitulação de responsividade desenv
 
 O projeto foi construído utilizando HTML e CSS seguindo as práticas recomendadas ensinadas no curso. Ele destaca técnicas essenciais para criar layouts responsivos, garantindo uma experiência consistente em dispositivos de diferentes tamanhos e resoluções.
 
+# Deploy
+
+O projeto está hospedado e pode ser acessado https://fantastic-elf-902d09.netlify.app/.
+
+
+
