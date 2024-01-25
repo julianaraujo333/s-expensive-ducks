@@ -1,9 +1,8 @@
 # Wildly Expensive DUCKS
 
-Quick start:
+Este repositório contém um projeto de recapitulação de responsividade desenvolvido com base nos conceitos aprendidos no curso de Front-end Developer da Scrimba. O projeto visa consolidar e demonstrar as habilidades adquiridas em design responsivo para criação de interfaces web.
 
-```
-$ npm install
-$ npm start
-````
+## Descrição
+
+O projeto foi construído utilizando HTML e CSS seguindo as práticas recomendadas ensinadas no curso. Ele destaca técnicas essenciais para criar layouts responsivos, garantindo uma experiência consistente em dispositivos de diferentes tamanhos e resoluções.
 
